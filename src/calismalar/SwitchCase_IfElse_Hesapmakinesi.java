@@ -50,6 +50,9 @@ public class SwitchCase_IfElse_Hesapmakinesi {
 				System.out.println("Hatali islem...   Lutfen tekrar deneyiniz...");
 			}
 				
+		
+				System.out.println("Selam");
+		
 			scan.close();
 				
 				
