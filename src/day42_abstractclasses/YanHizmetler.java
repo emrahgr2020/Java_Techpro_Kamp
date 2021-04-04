@@ -7,7 +7,7 @@ public abstract class YanHizmetler extends Personel{
     // concrete child class'i olacak
     
     public static void main(String[] args) {
-        
+        System.out.println();
         // YanHizmetler obj1 = new YanHizmetler();
         // abstract bir class'dan obje uretilemez
         // Cannot instantiate the type YanHizmetler
